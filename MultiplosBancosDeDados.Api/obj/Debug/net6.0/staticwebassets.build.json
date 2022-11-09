@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "su2nklnIkwhDlJZFPTCG0QrDOQjnvpBA8EoCYlmXwKI=",
+  "Source": "MultiplosBancosDeDados.Api",
+  "BasePath": "_content/MultiplosBancosDeDados.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

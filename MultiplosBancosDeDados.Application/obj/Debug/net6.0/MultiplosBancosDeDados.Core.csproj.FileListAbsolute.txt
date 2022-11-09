@@ -1,0 +1,12 @@
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\bin\Debug\net6.0\MultiplosBancosDeDados.Core.deps.json
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\bin\Debug\net6.0\MultiplosBancosDeDados.Core.dll
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\bin\Debug\net6.0\MultiplosBancosDeDados.Core.pdb
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.csproj.AssemblyReference.cache
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.AssemblyInfoInputs.cache
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.AssemblyInfo.cs
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.dll
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\refint\MultiplosBancosDeDados.Core.dll
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\MultiplosBancosDeDados.Core.pdb
+C:\Projetos\MultiplosBancosDeDados\MultiplosBancosDeDados.Application\obj\Debug\net6.0\ref\MultiplosBancosDeDados.Core.dll
